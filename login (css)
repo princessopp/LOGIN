@@ -1,0 +1,23 @@
+Input{
+    margin:60;
+    padding: 12px;
+    border-radius: 40px;
+}
+.email{
+     background-color: black;
+     color: aquamarine;
+}
+#password{
+    background-color: brown;
+    color: aliceblue;
+}
+button{
+    background-color: antiquewhite;
+    color: blueviolet;
+}
+div{
+    background-color: black;
+    padding: auto;
+    display: flex;
+    flex-direction: column-reverse;
+}
